@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task6</string>
+    <string name="true_button">Авторизация</string>
+    <string name="next_button">Регистрация</string>
+</resources>
